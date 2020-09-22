@@ -1,2 +1,2 @@
 # Pbook
-Pbook Android App.
+Pbook App for Android.
